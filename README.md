@@ -6,7 +6,7 @@ I care about the space where design and engineering overlap: interfaces that fee
 
 Currently open to work.
 
-[Portfolio](https://www.smailselmi.com/) &nbsp;·&nbsp; [Kyodai Code](https://kyodai-code.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/)
+[Portfolio](https://www.smailselmi.com/) · [Kyodai Code](https://kyodai-code.vercel.app) · [LinkedIn](https://www.linkedin.com/)
 
 ---
 
@@ -46,6 +46,4 @@ The bilingual website for my studio. Next.js, TypeScript. [kyodai-code.vercel.ap
 
 ## GitHub
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xsmaiil&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/0xsmaiil)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xsmaiil&layout=compact&theme=github_dark&hide_border=true)](https://github.com/0xsmaiil)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=0xsmaiil&theme=github-dark-blue&hide_border=true)](https://github.com/0xsmaiil)
